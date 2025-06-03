@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/discopse/git/Compiler/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Compiler.dir/src/main.cpp.o -c /home/discopse/git/Compiler/src/main.cpp",
+  "file": "/home/discopse/git/Compiler/src/main.cpp",
+  "output": "CMakeFiles/Compiler.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/discopse/git/Compiler/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Compiler.dir/src/parser.cpp.o -c /home/discopse/git/Compiler/src/parser.cpp",
+  "file": "/home/discopse/git/Compiler/src/parser.cpp",
+  "output": "CMakeFiles/Compiler.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/home/discopse/git/Compiler/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Compiler.dir/src/tokenizer.cpp.o -c /home/discopse/git/Compiler/src/tokenizer.cpp",
+  "file": "/home/discopse/git/Compiler/src/tokenizer.cpp",
+  "output": "CMakeFiles/Compiler.dir/src/tokenizer.cpp.o"
+}
+]
