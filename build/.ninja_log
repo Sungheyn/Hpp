@@ -1,5 +1,7 @@
 # ninja log v6
-436	561	1748599092835979021	Compiler	a8859dbb42a8f719
-2	489	1748445378695268340	CMakeFiles/Compiler.dir/src/main.cpp.o	1d993209c7b01444
-2	1047	1748444846212469070	CMakeFiles/Compiler.dir/src/parser.cpp.o	6986af9ba1d9bbd2
-2	436	1748599092401969609	CMakeFiles/Compiler.dir/src/tokenizer.cpp.o	931b909602b6326f
+3	532	1749218919835500364	CMakeFiles/Compiler.dir/src/tokenizer.cpp.o	247b09a67b84f894
+2	560	1749218919833994251	CMakeFiles/Compiler.dir/src/main.cpp.o	d6323fe4d9165237
+2	1185	1749218919835100737	CMakeFiles/Compiler.dir/src/parser.cpp.o	9b8774ff5326b96a
+1185	1294	1749218921017011346	Compiler	a8859dbb42a8f719
+1	580	1749218995001124142	CMakeFiles/Compiler.dir/src/main.cpp.o	d6323fe4d9165237
+580	726	1749218995580133160	Compiler	a8859dbb42a8f719

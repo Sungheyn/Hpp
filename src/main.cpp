@@ -2,7 +2,7 @@
 
 
 int main(int argc, char** argv) {
-    std::ifstream file("/home/discopse/git/Compiler/build/source.hhh", std::ios::binary);
+    std::ifstream file("/home/discopse/Hpp/build/source.hhh", std::ios::binary);
     if (argc < 1) {
         std::cerr << "Please provide a file name." << std::endl;
         return 1;
