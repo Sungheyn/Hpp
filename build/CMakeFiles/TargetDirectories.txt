@@ -1,3 +1,0 @@
-/home/discopse/Hpp/build/CMakeFiles/Compiler.dir
-/home/discopse/Hpp/build/CMakeFiles/edit_cache.dir
-/home/discopse/Hpp/build/CMakeFiles/rebuild_cache.dir
